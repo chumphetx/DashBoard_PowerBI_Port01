@@ -76,4 +76,6 @@ Avg Orders per Customer =
 DIVIDE(
     DISTINCTCOUNT(Sales[Order ID]),
     DISTINCTCOUNT(Sales[Customer Name])
-)<img width="1923" height="1082" alt="image" src="https://github.com/user-attachments/assets/f2a552e6-bb9c-48dd-b1f7-2d5fe5be42da" />
+)
+<img width="1930" height="1084" alt="image" src="https://github.com/user-attachments/assets/1e0e30c2-af69-49b8-bd29-01818a753ad0" />
+

@@ -66,5 +66,5 @@ The dashboard is designed to analyze **Sales Performance, Customer Behavior, and
 ---
 ## 🖼 Dashboard Preview
 
-![Sales Dashboard](images/Sales_Dashboard.png)
+![Sales Dashboard](images/Dashboard1.png)
 

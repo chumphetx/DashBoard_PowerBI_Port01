@@ -1,3 +1,4 @@
+## 🖼 Dashboard Preview
 ![Sales Dashboard](images/dashboard1.png)
 
 # 📊 Power BI Sales & Customer Analytics Dashboard

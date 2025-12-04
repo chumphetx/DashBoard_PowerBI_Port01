@@ -3,7 +3,7 @@
 This repository contains my **Power BI portfolio project** built using the **Global Superstore dataset (~50,000 rows)**.  
 The dashboard is designed to analyze **Sales Performance, Customer Behavior, and Product & Regional Performance** for business decision-making.
 
-โปรเจกต์นี้เป็นส่วนหนึ่งของ **Portfolio ด้าน Data Analyst / Business Intelligence** โดยใช้ Power BI เพื่อวิเคราะห์ข้อมูลยอดขาย ลูกค้า และสินค้าเชิงธุรกิจ
+โปรเจกต์นี้เป็นส่วนหนึ่งของ Portfolio ด้าน Data Analyst  โดยใช้ Power BI เพื่อวิเคราะห์ข้อมูลยอดขาย ลูกค้า และสินค้าเชิงธุรกิจ
 
 ---
 
@@ -77,5 +77,7 @@ DIVIDE(
     DISTINCTCOUNT(Sales[Order ID]),
     DISTINCTCOUNT(Sales[Customer Name])
 )
-<img width="1930" height="1084" alt="image" src="https://github.com/user-attachments/assets/1e0e30c2-af69-49b8-bd29-01818a753ad0" />
+![Sales Dashboard](images/page1.png)
+![Customer Dashboard](images/page2.png)
+![Product Dashboard](images/page3.png)
 

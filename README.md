@@ -4,6 +4,13 @@ This repository contains my **Power BI portfolio project** built using the **Glo
 The dashboard is designed to analyze **Sales Performance, Customer Behavior, and Product & Regional Performance** for business decision-making.
 
 โปรเจกต์นี้เป็นส่วนหนึ่งของ Portfolio ด้าน Data Analyst  โดยใช้ Power BI เพื่อวิเคราะห์ข้อมูลยอดขาย ลูกค้า และสินค้าเชิงธุรกิจ
+<p align="center">
+  <img src="images/page1.png" width="45%" />
+  <img src="images/page2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="images/page3.png" width="60%" />
+</p>
 
 ---
 
@@ -65,19 +72,4 @@ The dashboard is designed to analyze **Sales Performance, Customer Behavior, and
 
 ---
 
-## 📐 Example DAX Measures
-
-```DAX
-Total Sales = SUM(Sales[Sales])
-
-Total Profit = SUM(Sales[Profit])
-
-Avg Orders per Customer = 
-DIVIDE(
-    DISTINCTCOUNT(Sales[Order ID]),
-    DISTINCTCOUNT(Sales[Customer Name])
-)
-![Sales Dashboard](images/page1.png)
-![Customer Dashboard](images/page2.png)
-![Product Dashboard](images/page3.png)
 

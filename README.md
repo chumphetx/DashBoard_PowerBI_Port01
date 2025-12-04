@@ -1,3 +1,5 @@
+![Sales Dashboard](images/dashboard1.png)
+
 # 📊 Power BI Sales & Customer Analytics Dashboard
 
 This repository contains my **Power BI portfolio project** built using the **Global Superstore dataset (~50,000 rows)**.  
@@ -64,7 +66,4 @@ The dashboard is designed to analyze **Sales Performance, Customer Behavior, and
 - GitHub (Portfolio Hosting)
 
 ---
-## 🖼 Dashboard Preview
-
-![Sales Dashboard](images/dashboard1.png)
 
